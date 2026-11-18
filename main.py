@@ -1,0 +1,3 @@
+import instagram
+
+instagram.run()
